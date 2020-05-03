@@ -1,4 +1,4 @@
-# matlab_image_processing
+# 图像处理（matlab）
 
 
 Practical coding with matlab explain what is image processing .You will understand the concepts and operation easier if you are new to this field.I wrote a [blog](https://www.cnblogs.com/hanxinle/p/8697820.html) to help me remember it.
